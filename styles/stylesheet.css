@@ -1,0 +1,23 @@
+.container {
+	margin: 3em auto;
+	width: 60%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.head h1 {
+  font-size: 2.5em;
+}
+
+.head p {
+	font-size: 1.2em;
+}
+
+.main-content p {
+}
+.main-content img {
+  width: 100%;
+}
+
